@@ -27,7 +27,7 @@ JS developer
   - sees code for dc as a mix between networking and working on projects
   
 - precived code for dc as more data science focused ( which seemed a little intimidating ) 
-  - mid-level skill 'required', seemed like it would be harder for newbie to jump in 
+  - mid-level skill  seemed 'required', seemed like it would be harder for newbie to jump in 
 - no expections as far a vibe or what to type of activites
 
 - would have liked to have known how diverse the projects are 
@@ -47,7 +47,8 @@ JS developer
   - whats the usual schudule?
     - great if listed, but would be bad if it wasnt honored 
 - nothing 'missing', 'its ok' 
-  - noticed a lot of search for where information was, even when it was where it was expected
+  - noticed a little friction searching for where information was, even when it was where it was expected
+   - (suspect sizing maybe and issue) 
 
 - went to contact page for help with issues 
   - also checkout out link on front page
