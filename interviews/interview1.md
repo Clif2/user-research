@@ -36,3 +36,24 @@ JS developer
 
 - went to website briefly while here tonight 
   - expected to see schudule for meetups 
+  
+## walk through 
+
+- would  got to meetup page to see next meeting
+- current meetup date wasn't readily seen 
+- would like to see a recurring schudule 
+  - currently requires you to subscribe  
+  - would like to just see it on the website
+  - whats the usual schudule?
+    - great if listed, but would be bad if it wasnt honored 
+- nothing 'missing', 'its ok' 
+  - noticed a lot of search for where information was, even when it was where it was expected
+
+- went to contact page for help with issues 
+  - also checkout out link on front page
+  - sending messages to individuals if needed 
+  
+- 'I don't think its nearly as bad as you think it is' 
+  - 'its infomative'
+  - 'had I gone throught the website beforehand I might have come sooner'
+    - may have led to less intimidation 
