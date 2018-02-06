@@ -21,7 +21,7 @@ JS developer
 - discovery: meetup.com, twitter(Kate), word-of-mouth from other meetups
 - first heard last summer
 - had a free night so came to check it out, time-contraints before
-- other meetups: code newbie, reactDC, etc
+- has been to other meetups: code newbie, reactDC, etc
   - tries to see what the style and vibe of other meetups 
   - ie networking, working group, etc, 
   - sees code for dc as a mix between networking and working on projects
